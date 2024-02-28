@@ -1,4 +1,4 @@
-# How to Run FSL-Rectifier and Reproduce Results
+# How to Run FSL-Rectifier
 This directory contains our major implementations for the work FSL-Rectifier.
 
 ## Data and Pretrained Model Preparation
